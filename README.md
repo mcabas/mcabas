@@ -1,5 +1,10 @@
 Hi 👋 My name is Michael Cabas
-==============================Data Analyst | Data Scientist | MSc. Biotechnology | Coffee Consultant----------------------------------------------------------------------* 🌍  I'm based in Medellín, Colombia* ✉️  You can contact me at [mcabas.ingbio@gmail.com](mailto:mcabas.ingbio@gmail.com)* 🧠  I'm learning Python* 🤝  I'm open to collaborating on Foodscience projects* ⚡  I like to headbang with black metal and dance guaracha
+Data Analyst | Data Scientist | MSc. Biotechnology | Coffee Consultant 
+🌍  I'm based in Medellín, Colombia* 
+✉️  You can contact me at [mcabas.ingbio@gmail.com](mailto:mcabas.ingbio@gmail.com)* 
+🧠  I'm learning Python* 
+🤝  I'm open to collaborating on Foodscience projects* 
+⚡  I like to headbang with black metal and dance guaracha
 
 ### Skills
 
