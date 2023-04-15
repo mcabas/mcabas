@@ -3,7 +3,7 @@
 
 - 🌍  I'm based in Medellín, Colombia* 
 - ✉️  You can contact me at [mcabas.ingbio@gmail.com](mailto:mcabas.ingbio@gmail.com)* 
-- 🧠  I'm learning Python and Machine Learning
+- 🧠  I'm learning Machine Learning
 - 🤝  I'm open to collaborating on Foodscience projects* 
 - ⚡  I like to headbang with black metal and dance guaracha
 
