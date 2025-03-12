@@ -1,11 +1,11 @@
-# **Hi 👋 My name is Michael Cabas**
-### **Data Analyst | Data Scientist | MSc. Biotechnology | Coffee Consultant**
+# **👋 Hey there! I’m Michael Cabas
+📊 A Senior Data Analyst & Data Scientist who loves turning data into stories and solutions
+🌱 Currently diving deep into Data Engineering 🤖 and Machine Learning 🧠 to build smarter, scalable systems
+👀 Super passionate about FoodTech 🍔🌮 and using Data Science 📈 to improve operations, quality, and profitability
+💡 I’ve helped teams optimize processes, boost efficiency, and make better decisions—all through the power of data!
+🛠️ My go-to tools: SQL 🗃️, Python 🐍, Power BI 📊, Snowflake ❄️, and more
 
-- 🌍  I'm based in Medellín, Colombia* 
-- ✉️  You can contact me at [mcabas.ingbio@gmail.com](mailto:mcabas.ingbio@gmail.com)* 
-- 🧠  I'm learning Machine Learning
-- 🤝  I'm open to collaborating on Foodscience projects* 
-- ⚡  I like to headbang with black metal and dance guaracha
+🌟 Let’s connect and create something amazing together! Whether it’s data, tech, or just chatting about FoodTech, I’m all ears! 🚀
 
 ### Skills
 
