@@ -1,4 +1,4 @@
-# **👋 Hey there! I’m Michael Cabas
+# 👋 Hey there! I’m Michael Cabas
 📊 A Senior Data Analyst & Data Scientist who loves turning data into stories and solutions
 🌱 Currently diving deep into Data Engineering 🤖 and Machine Learning 🧠 to build smarter, scalable systems
 👀 Super passionate about FoodTech 🍔🌮 and using Data Science 📈 to improve operations, quality, and profitability
